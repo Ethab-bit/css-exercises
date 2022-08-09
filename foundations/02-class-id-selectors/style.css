@@ -1,0 +1,16 @@
+#number2 {
+    color: #00f;
+    font-size: 36px;
+}
+#number4 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+.cooler {
+    font-size: 24px;
+}
+p:nth-child(odd) {
+    background-color: lightpink;
+    font-family: verdana, "Dejavu Sans", sans-serif
+}
